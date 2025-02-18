@@ -1,0 +1,25 @@
+
+In CSE there are several algorithms 
+which is designed to search the elements in array/list.
+
+Mainly focus on Linear and Binary Search algorithms 
+are searching the target element in array/list.
+
+Key Differences:
+----------------
+-> Linear Search is used to find the element in array 
+by following sequential and array is not sorted order.
+
+-> Binary Search is used to find the element in array 
+by following split the array based on mid value 
+then traverse the loop (Left / right) to until find the exact target,
+Array required sorting for spliting the havles.
+
+Time Complexity:
+---------------- 
+ Linear Search >> O(n),    where the n is the size of an array.
+ Binary Search >> (log n), where n is size.
+ 
+ 
+
+
